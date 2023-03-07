@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mediporta-task", "mediporta-task\mediporta-task.csproj", "{720F17EC-2F01-4650-8DB4-3C125C5FE17C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{720F17EC-2F01-4650-8DB4-3C125C5FE17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720F17EC-2F01-4650-8DB4-3C125C5FE17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720F17EC-2F01-4650-8DB4-3C125C5FE17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720F17EC-2F01-4650-8DB4-3C125C5FE17C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FADC237D-205A-49A8-911B-5F0DAD43AD28}
+	EndGlobalSection
+EndGlobal
